@@ -1,0 +1,55 @@
+*{background-color: #d9d8d9
+    ;}
+
+.cigany{
+text-align: center;
+
+
+}
+
+.cigany img{
+    border-radius: 100%;
+
+}
+
+.cigany img:hover{
+    border-radius: 100%;
+    transform: rotate(20deg);
+}
+
+
+.cigany h2{
+font-size: 40px;
+}
+
+.centeredcigany{
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    align-tracks: center;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.centeredcigany h2{
+background-color: #31383c;
+width: 300px;
+color:white;
+margin-left: auto;
+margin-right: auto
+
+}
+    
+.felsorolascigany h2{
+    background-color: #31383c;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    color:white;
+    
+    }
+        
+
+
+
